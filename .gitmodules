@@ -1,0 +1,3 @@
+[submodule "bca-avr-lib"]
+	path = bca-avr-lib
+	url = git@github.com:markbennett95/bca-avr-lib.git
